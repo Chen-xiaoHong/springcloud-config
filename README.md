@@ -1,2 +1,3 @@
 # springcloudConfig
-springcloudConfig的学习
+config
+ info: springcloudConfig的学习
